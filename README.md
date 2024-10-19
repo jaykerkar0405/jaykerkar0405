@@ -35,7 +35,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-  I'm Jay Kerkar from Mumbai, India.<br><br>
+  I'm <b>Jay Kerkar</b> from <b>Mumbai, India</b>.<br><br>
   - 🔭 I work as a software developer, focusing on mobile and web apps.<br>
   - 📚 Currently learning advanced backend and encryption techniques.<br>
   - ⚡ In my free time, I build side projects and stay active.
