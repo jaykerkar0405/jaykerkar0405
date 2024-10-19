@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
   <a href="https://x.com/jaykerkar0405" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+      <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="X logo" />
   </a>
   <a href="https://leetcode.com/jaykerkar0405" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&style=for-the-badge" height="25" alt="leetcode logo" />
