@@ -29,7 +29,7 @@
 <br clear="both">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=25&pause=1000&color=B322FF&width=550&lines=Hey+%F0%9F%91%8B+I'm+Jay+Kerkar;Building+Apps+for+Android+%26+iOS+%F0%9F%93%B1;Web+Developer+with+Various+Tech+Stacks+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&pause=1000&color=B322FF&width=550&lines=Hey+%F0%9F%91%8B+I'm+Jay+Kerkar;Building+Apps+for+Android+%26+iOS+%F0%9F%93%B1;Web+Developer+with+Various+Tech+Stacks+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <h3 align="left">👩‍💻 About Me</h3>
