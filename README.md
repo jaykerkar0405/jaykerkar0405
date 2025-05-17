@@ -34,7 +34,6 @@
 <p align="left">
   I'm <b>Jay Kerkar</b> from <b>Mumbai, India</b>.<br><br>
   - 🔭 I am a software developer, focusing on mobile and web apps.<br>
-  - 📚 Currently learning advanced backend and encryption techniques.<br>
   - ⚡ In my free time, I build side projects and stay active.<br>
   - 💼 Junior Technical Officer at <a href="https://github.com/QuestIT-Cell" target="_blank">QuestIT Cell</a>.
 </p>
